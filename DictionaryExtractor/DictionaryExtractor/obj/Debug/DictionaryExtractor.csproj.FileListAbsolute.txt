@@ -1,0 +1,6 @@
+F:\GIT_Repository\DictionaryExtractor\DictionaryExtractor\DictionaryExtractor\bin\Debug\DictionaryExtractor.exe.config
+F:\GIT_Repository\DictionaryExtractor\DictionaryExtractor\DictionaryExtractor\bin\Debug\DictionaryExtractor.exe
+F:\GIT_Repository\DictionaryExtractor\DictionaryExtractor\DictionaryExtractor\bin\Debug\DictionaryExtractor.pdb
+F:\GIT_Repository\DictionaryExtractor\DictionaryExtractor\DictionaryExtractor\obj\Debug\DictionaryExtractor.csprojResolveAssemblyReference.cache
+F:\GIT_Repository\DictionaryExtractor\DictionaryExtractor\DictionaryExtractor\obj\Debug\DictionaryExtractor.exe
+F:\GIT_Repository\DictionaryExtractor\DictionaryExtractor\DictionaryExtractor\obj\Debug\DictionaryExtractor.pdb
